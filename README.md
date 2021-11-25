@@ -2,10 +2,11 @@
 Enjoy this repo  :smile: :smiley: :smiley:
 
 ## Contents
-The repo contains my bash script's to speed up traso dev work.
+The repo contains my bash script's to speed up trasco dev work.
 
 * `.aliases` contains bash aliases
-*  if you work on wsl system the linux subsystem will  disconnect the postgress server (somtimes)  type ```load```
+*  If you work on a WSL  the windows linux subsystem  it will  disconnect the postgress server (somtimes) 
+ type ```load``` .
 
 To use these just  download the repo into your root directory  (~/.bash_profile on mac)
 For WSL users 
@@ -22,7 +23,7 @@ do source $file
 done
 ```
 If you want to keep this repo updated locally dont forget 
-```git pull``` or just use the keywords ```update_bash```in bash or if you want to keep current shell open ```update_update_currentcurrent``` .
+```git pull``` or just use the keywords ```update_bash```in bash or if you want to keep current shell open ```update_current``` .
 
 <br>
 <br>
