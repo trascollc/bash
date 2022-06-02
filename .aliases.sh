@@ -32,9 +32,6 @@ heroku local web
 else
 heroku run bash  
 fi
-exit
-
-
 }
 
 
